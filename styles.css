@@ -70,7 +70,7 @@ header {
 .navigation-buttons {
     display: flex;
     justify-content: center;
-    gap: 60px;
+    gap: 30px;
     margin-top: 90%;
 }
 

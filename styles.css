@@ -20,7 +20,7 @@ body {
 #click-button {
     width: 100px;
     height: 100px;
-    background-color: red;
+    background-color: #1A9FFF;
     color: white;
     border: none;
     border-radius: 50%;
@@ -29,7 +29,7 @@ body {
 }
 
 #click-button:active {
-    background-color: darkred;
+    background-color: #00BBFF;
 }
 
 
